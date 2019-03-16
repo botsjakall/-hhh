@@ -80,7 +80,7 @@ r#set
 - To create the role of the Rainbow & Start The Rainbow
 r#inv 
 - لدعوة البوت
-- To Invite the bot
+- To Invite the bot.
 خطوات لو الرتبة م أشتغلت .!!
 1- ضع رتبة الرينبو فوق الالوان أو الرتب الملونه لو فيه
 2- ضع رتبة البوت فوق رتبة الرينبو
